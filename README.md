@@ -5,11 +5,10 @@ The definition in this repository has been created along the way where no suitab
 
 ### Usage
 
-To use this symbold library in a project, checkout the repository to some place and then edit (or create) the **```gafrc```** file that
-should be located in the home folder, ie: **```/home/<user>/.gEDA```**
+To use the symbols from the library in a project, checkout the repository and edit (or create) the **```gafrc```** file in the **.gEDA**
+folder located in the home directory, ie: **```/home/<user>/.gEDA```**
 
-
-An add the following
+Add the following line
 
 ```
 (component-library-search "/<full-path-to>/gEDA-gschem-sym/")
