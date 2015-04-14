@@ -6,7 +6,7 @@ The definition in this repository has been created along the way where no suitab
 ### Usage
 
 To use this symbold library in a project, checkout the repository to some place and then edit (or create) the **```gafrc```** file that
-should be located in the home folder, ie: **```/home/<YouHome>/.gEDA```**
+should be located in the home folder, ie: **```/home/<user>/.gEDA```**
 
 
 An add the following
